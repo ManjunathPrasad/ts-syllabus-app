@@ -36,5 +36,3 @@ interface Animal {
 interface Dog extends Animal {
     breed: string;
 }
-
-const d: Dog = {name: "Max", breed:"Beagle"};
