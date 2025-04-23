@@ -1,5 +1,5 @@
 let num = 123;
-
+let price = 19.99;
 let greet_message = "Hello, world!";
 let isActive = true;
 let hasChildren = false;
@@ -12,4 +12,4 @@ let symbolValue: symbol = Symbol("uniqueSymbol");
 let voidValue: void = undefined; // or just leave it empty
 let neverValue: never; // This type represents values that never occur
 let enumValue: "red" | "green" | "blue" = "red"; // Union type for specific string values  
-console.log(num, greet_message, isActive, hasChildren, anyValue, unknownValue, nullValue, undefinedValue, bigIntValue, symbolValue, voidValue, enumValue); // number type
+console.log(num, price, greet_message, isActive, hasChildren, anyValue, unknownValue, nullValue, undefinedValue, bigIntValue, symbolValue, voidValue, enumValue); // number type
