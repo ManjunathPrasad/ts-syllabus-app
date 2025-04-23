@@ -2,6 +2,7 @@ interface Student {
     name: string;
     gender: string;
     pay: number;
+    display(): void;
 }
 
 class StudentClass implements Student {
