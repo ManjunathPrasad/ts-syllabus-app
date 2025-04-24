@@ -1,0 +1,12 @@
+h1 {
+    font-size: 2em;
+    color:rgb(10, 10, 8);
+    text-align: center;
+    background-color: rgb(216, 247, 241);
+    border-radius: 5em;
+    font-family:Georgia;
+  }
+
+p{
+    font-size: small;  
+}
